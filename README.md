@@ -190,9 +190,9 @@ Titanic-Data-Cleaning/
 **suhaibprogramer**  
 Data Analytics Trainee
 
-- 📧 Email: [Add your email here]
+- 📧 Email: [suhaibmuhammad17@gmail.com]
 - 🔗 GitHub: [suhaibprogramer](https://github.com/suhaibprogramer)
-- 🔗 LinkedIn: [Add your LinkedIn here]
+- 🔗 LinkedIn: [www.linkedin.com/in/muhammad-suhaib-93333a36b]
 
 ---
 
@@ -202,13 +202,13 @@ Data Analytics Trainee
 
 ---
 
-## 📜 License
+##📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##🙏 Acknowledgments
 
 - [Kaggle](https://www.kaggle.com/) for providing the Titanic dataset
 - Internee Data Analytics Training Program
@@ -218,8 +218,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Show Your Support
 
-If you found this project helpful, please give it a ⭐ on GitHub!
-
----
-
-**Made with ❤️ by suhaibprogramer**
